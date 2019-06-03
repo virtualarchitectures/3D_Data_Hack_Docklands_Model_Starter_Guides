@@ -1,6 +1,6 @@
 # 3D Data Hack Docklands Model Starter Guides
 
-This repository contains starter guides for using the Unity and Unreal Engine to visualise large scale 3D architectural models. They were prepared on behalf of the Building City Dashboards project to assist participants in the 3D Data Hack Dublin 2019. 
+This repository contains starter guides for using the Unity and Unreal Engine to visualise large scale 3D architectural models. They were prepared on behalf of the Building City Dashboards project to assist participants in the 3D Data Hack Dublin 2019. The guides utlise the 3D model of the Dublin Docklands SDZ which was specially commissioned for the event.
 
 ## Contents
 
