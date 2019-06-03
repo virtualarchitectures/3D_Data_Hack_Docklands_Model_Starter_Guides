@@ -16,7 +16,7 @@ The [3D Data Hack Dublin](https://3ddatahack.ie/) took place on 10 - 12 May 2019
 
 ## 3D Data Hack Dublin Resources
 
-The 3D model of the Dublin Docklands that was commisioned for the event was subsequently released to the public as free open data using a Creative Commons licence (CC-BY-NC-SA 4.0). The data is now available via Dublin's open data portal Dublinked: [3D Data Hack Dublin Resources](https://data.smartdublin.ie/dataset/3d-data-hack-dublin-resources)
+The 3D model of the Dublin Docklands that was commisioned for the event was subsequently released to the public as open data using a Creative Commons licence (CC-BY-NC-SA 4.0).  The Docklands model has been provided in FBX and 3D Studio Max format. The data is now available via Dublin's open data portal Dublinked: [3D Data Hack Dublin Resources](https://data.smartdublin.ie/dataset/3d-data-hack-dublin-resources)
 
 
 ## Acknowledgements
