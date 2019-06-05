@@ -4,9 +4,9 @@ This repository contains starter guides for using the Unity and Unreal Engine to
 
 ## Contents
 
-**Unity Guide** - [3D_Hack_Unity3D_Guide.pdf](https://github.com/virtualarchitectures/3D_Data_Hack_Docklands_Model_Starter_Guides/blob/master/3D_Hack_Unity3D_Guide.pdf)
+**Unity Guide** - [3D_Hack_Unity3D_Guide.pdf](3D_Hack_Unity3D_Guide.pdf)
 
-**Unreal Engine Guide** - [3D_Hack_Unreal_Engine_Guide.pdf](https://github.com/virtualarchitectures/3D_Data_Hack_Docklands_Model_Starter_Guides/blob/master/3D_Hack_Unreal_Engine_Guide.pdf)
+**Unreal Engine Guide** - [3D_Hack_Unreal_Engine_Guide.pdf](3D_Hack_Unreal_Engine_Guide.pdf)
 
 These guides were made available to participants in the 3D Data Hack event via the Dublinked open data portal.
 
